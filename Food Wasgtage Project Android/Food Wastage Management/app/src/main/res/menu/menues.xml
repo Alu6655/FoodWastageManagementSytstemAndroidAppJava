@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/eventm"
+        android:icon="@drawable/ic_baseline_event_available_24"
+        android:title="Event Manager">
+    </item>
+    <item android:id="@+id/event"
+        android:icon="@drawable/ic_baseline_event_note_24"
+        android:title="Event Form">
+    </item>
+    <item android:id="@+id/contact"
+        android:icon="@drawable/ic_baseline_contacts_24"
+        android:title="Contact">
+    </item>
+
+    <item android:id="@+id/response"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Response">
+    </item>
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_details_24"
+        android:title="About">
+    </item>
+</menu>
